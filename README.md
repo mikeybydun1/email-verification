@@ -6,4 +6,13 @@ After that, he needs to enter the code and log in.
 
 **🔸Video explanation of how the app works**
 ---
-<a https://youtu.be/5PvxFlqtC-w"></a>        
+https://youtu.be/5PvxFlqtC-w
+
+**💻 How to run the app**
+---
+1. Create react-native application project
+2. download the needed node modules
+3. copy the code here
+4. run the server by: `cd server` and `node index.js`
+5. run the application by: `npm start`
+
