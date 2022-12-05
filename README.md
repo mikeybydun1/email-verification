@@ -14,5 +14,5 @@ https://youtu.be/5PvxFlqtC-w
 2. download the needed node modules
 3. copy the code here
 4. run the server by: `cd server` and `node index.js`
-5. run the application by: `npm start`
+5. run the application by: `cd Encourse-challenge` and `npm start`
 
